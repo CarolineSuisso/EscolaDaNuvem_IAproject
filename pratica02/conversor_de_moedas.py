@@ -1,4 +1,4 @@
-# Irei usar o valor das moedas do dia de hoje  23/08 
+
 
 valor_real = 100
 taxa_dolar = 5.60
